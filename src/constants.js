@@ -3,7 +3,7 @@ let host = 'http://127.0.0.1:8000';
 let stripePublishKey = 'pk_test_MaMJmdWrhGRr6EwcDQBWbYos';
 
 if (!DEBUG) {
-    host = 'https://137.184.7.33';
+    host = 'https://64.227.99.172';
     stripePublishKey = 'pk_test_MaMJmdWrhGRr6EwcDQBWbYos';
 }
 
